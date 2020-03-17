@@ -1,4 +1,4 @@
-### JavaScript 4
+# Javascript 4
 
 ### Projected Time
 About 2 hours
